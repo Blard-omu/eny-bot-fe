@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Home, LucideArrowLeft } from "lucide-react";
-import ComingSoonImg from "../../../public/Images/mentor6.png";
+import ComingSoonImg from "../../public/Images/mentor6.png";
 
 export default function ComingSoonPage() {
   const router = useRouter();
