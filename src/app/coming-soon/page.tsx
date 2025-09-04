@@ -4,14 +4,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Home, LucideArrowLeft } from "lucide-react";
-// import ComingSoonImg from "../../public/Images/mentor6.png";
+import ComingSoonImg from "/public/Images/mentor6.png";
 
 export default function ComingSoonPage() {
   const router = useRouter();
   return (
     <div className="flex flex-col items-center justify-center bg-[#f3f4f6] text-center p-6">
       <Image
-        src="/public/Images/mentor6.png"
+        src={ComingSoonImg}
         alt="Coming Soon"
         className="w-full lg:w-[500px]"
       />

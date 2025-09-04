@@ -21,7 +21,7 @@ const About = () => {
           style={{ minHeight: "8rem" }}
         >
           <Image
-            src={`/public/Images/mentor11.png`}
+            src="/Images/mentor11.png"
             alt="Eny Consultant Office"
             className="w-60 md:w-72 lg:w-96 h-auto relative z-10 mx-auto rounded-xl shadow-lg"
           />

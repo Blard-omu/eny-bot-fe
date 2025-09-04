@@ -12,7 +12,7 @@ const courses = [
     description:
       "Master business analysis with our comprehensive CBAP course, designed to prepare you for the Certified Business Analysis Professional exam.",
     price: "$297",
-    image: "/images/Mobile2_bg_removed.png",
+    image: "/Images/Mobile2_bg_removed.png",
   },
   {
     id: "ccba",
@@ -20,7 +20,7 @@ const courses = [
     description:
       "Build foundational skills for the Certification of Competency in Business Analysis with expert-led training and hands-on exercises.",
     price: "$247",
-    image: "/images/eny3.png",
+    image: "/Images/eny3.png",
   },
   {
     id: "agile",
@@ -28,7 +28,7 @@ const courses = [
     description:
       "Learn Agile methodologies for business analysis, including Scrum and Kanban, to excel in dynamic project environments.",
     price: "$199",
-    image: "/images/eny-hero.png",
+    image: "/Images/eny-hero.png",
   },
 ];
 
@@ -54,7 +54,7 @@ const OurCourses = () => {
       {/* Background Image */}
       <div
         className="absolute inset-0 w-full h-full bg-no-repeat bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/BackgroundImage.png')" }}
+        style={{ backgroundImage: "url('/Images/BackgroundImage.png')" }}
       ></div>
 
       {/* Foreground Content */}

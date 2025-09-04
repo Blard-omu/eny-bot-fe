@@ -11,7 +11,7 @@ const Hero = () => {
     <div className="relative flex flex-col min-h-screen">
       <div
         className="absolute inset-0 w-full h-full bg-no-repeat bg-cover z-0"
-        style={{ backgroundImage: `url("/images/BackgroundImage.png")` }}
+        style={{ backgroundImage: `url("/Images/BackgroundImage.png")` }}
       ></div>
 
       <div className="lg:max-w-7xl md:max-w-2xl max-w-full w-full mx-auto md:z-10 z-20">
