@@ -1,5 +1,4 @@
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
-import android from "../../../public/Images/mentor11.png"; 
 import Image from "next/image";
 
 const About = () => {
@@ -22,8 +21,7 @@ const About = () => {
           style={{ minHeight: "8rem" }}
         >
           <Image
-            // src={officeImage}
-            src={android}
+            src={`/public/Images/mentor11.png`}
             alt="Eny Consultant Office"
             className="w-60 md:w-72 lg:w-96 h-auto relative z-10 mx-auto rounded-xl shadow-lg"
           />
@@ -58,7 +56,7 @@ const About = () => {
                   Continuous Growth
                 </h4>
                 <p className="text-sm text-gray-600">
-                  We don’t just deliver solutions — we empower teams with the knowledge, 
+                  We don&apos;t just deliver solutions — we empower teams with the knowledge, 
                   skills, and tools to sustain long-term success in a digital-first world.
                 </p>
               </div>

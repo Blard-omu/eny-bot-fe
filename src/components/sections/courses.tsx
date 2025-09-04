@@ -2,10 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import Slider from "react-slick";
 import { ArrowRightIcon } from "@heroicons/react/24/solid";
-import cbapImage from "../../../public/images/Mobile2_bg_removed.png";
-import shapeBG from "../../../public/Images/BackgroundImage.png";
-import ccbaImage from "../../../public/images/eny3.png";
-import agileImage from "../../../public/images/eny-hero.png";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -16,7 +12,7 @@ const courses = [
     description:
       "Master business analysis with our comprehensive CBAP course, designed to prepare you for the Certified Business Analysis Professional exam.",
     price: "$297",
-    image: cbapImage,
+    image: "/images/Mobile2_bg_removed.png",
   },
   {
     id: "ccba",
@@ -24,7 +20,7 @@ const courses = [
     description:
       "Build foundational skills for the Certification of Competency in Business Analysis with expert-led training and hands-on exercises.",
     price: "$247",
-    image: ccbaImage,
+    image: "/images/eny3.png",
   },
   {
     id: "agile",
@@ -32,9 +28,10 @@ const courses = [
     description:
       "Learn Agile methodologies for business analysis, including Scrum and Kanban, to excel in dynamic project environments.",
     price: "$199",
-    image: agileImage,
+    image: "/images/eny-hero.png",
   },
 ];
+
 
 const sliderSettings = {
   dots: true,
@@ -57,7 +54,7 @@ const OurCourses = () => {
       {/* Background Image */}
       <div
         className="absolute inset-0 w-full h-full bg-no-repeat bg-cover bg-center"
-        style={{ backgroundImage: `url(${shapeBG.src})` }}
+        style={{ backgroundImage: "url('/images/BackgroundImage.png')" }}
       ></div>
 
       {/* Foreground Content */}
