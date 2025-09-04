@@ -5,7 +5,6 @@ import About from "@/components/sections/about";
 import Footer from "@/components/sections/footer";
 import ContactUs from "@/components/sections/contact";
 import { useEffect } from "react";
-import HappyCustomer from "@/components/sections/happyCustomer";
 import OurTeam from "@/components/sections/team";
 import OurCourses from "@/components/sections/courses";
 import Chatbot from "@/components/chatbot/chatbot";
@@ -27,7 +26,6 @@ export default function Home() {
         <About />
         <OurCourses/>
         <OurTeam/>
-        <HappyCustomer/>
         <ContactUs/>
         <Footer />
       </main>

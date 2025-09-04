@@ -78,10 +78,10 @@ const OurTeam = () => {
     return () => clearInterval(interval);
   }, [slideCount]);
 
-  const getVisibleTeam = () => {
-    const start = currentSlide * 3;
-    return team.slice(start, start + 3);
-  };
+  // const getVisibleTeam = () => {
+  //   const start = currentSlide * 3;
+  //   return team.slice(start, start + 3);
+  // };
 
   return (
     <section id="team" className="relative py-16 bg-gradient-to-b from-blue-50 to-white">
