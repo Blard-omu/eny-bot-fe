@@ -1,5 +1,3 @@
-### Frontend README (Next.js)
-
 # Frontend - Student Support Portal
 
 This Next.js frontend powers the user interface for ENY Consulting's Business Analysis School, providing a responsive chat interface for students to interact with the AI Q&A bot, submit escalations, and provide lead information. It supports real-time communication via Socket.io and displays chat history for authenticated users.
@@ -101,7 +99,6 @@ Access at http://localhost:3000.
 ## Testing
 
 * React Testing Library + Jest for components.
-* Cypress (optional E2E).
 
 ```bash
 npm test
@@ -114,7 +111,7 @@ npm test
 * Deploy to Vercel via Git push.
 * Set env vars in Vercel dashboard.
 
-URL: https://your-app.vercel.app
+URL: https://eny-bot-fe.vercel.app
 
 ---
 
