@@ -4,14 +4,14 @@ This Next.js frontend powers the user interface for ENY Consulting's Business An
 
 ---
 
-<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060720/chatbot/chat_lg_z9ku0b.png" alt="chtbot_ui"/>
-
 <p align="center">
   <img 
-    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060719/chatbot/chatbot_md1_py19pn.png" 
-    alt="Chatbot" 
-    style="width: 50%; height: auto;" 
+    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757062248/chatbot/mermaid-diagram_5_p6v6uc.svg" 
+    alt="Chatbot design" 
+    style="width: 100%; height: auto;" 
   />
+
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060720/chatbot/chat_lg_z9ku0b.png" alt="chtbot_ui"/>
   
 </p>
 <p align="center">
@@ -21,6 +21,8 @@ This Next.js frontend powers the user interface for ENY Consulting's Business An
     style="width: 50%; height: auto;" 
   />
 </p>
+
+---
 
 
 
