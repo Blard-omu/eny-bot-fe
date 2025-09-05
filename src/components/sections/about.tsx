@@ -24,6 +24,8 @@ const About = () => {
             src="/Images/mentor11.png"
             alt="Eny Consultant Office"
             className="w-60 md:w-72 lg:w-96 h-auto relative z-10 mx-auto rounded-xl shadow-lg"
+            width={300}
+            height={300}
           />
 
           <div className="flex flex-col items-center justify-center lg:mt-0 lg:ml-40 md:ml-20 mt-12 w-full max-w-xl">

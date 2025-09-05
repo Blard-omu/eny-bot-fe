@@ -79,6 +79,8 @@ const OurCourses = () => {
                 src={course.image}
                 alt={`${course.title} Preview`}
                 className="w-full h-48 object-cover"
+                width={300}
+                height={300}
                 priority
               />
               <div className="p-6">
@@ -112,6 +114,8 @@ const OurCourses = () => {
                     src={course.image}
                     alt={`${course.title} Preview`}
                     className="w-full h-48 object-cover"
+                    width={300}
+                    height={300}
                     priority
                   />
                   <div className="p-6">

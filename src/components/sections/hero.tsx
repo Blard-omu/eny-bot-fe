@@ -79,6 +79,8 @@ const Hero = () => {
                 src="/Images/mentor6.png"
                 alt="ENY AI Chatbot"
                 className="w-full h-full object-contain p-4"
+                width={300}
+                height={300}
                 priority
               />
             </div>
@@ -86,6 +88,8 @@ const Hero = () => {
               src="/Images/eny2.png"
               alt="Business Analysis Learning"
               className="w-full rounded-2xl shadow-lg"
+              width={300}
+              height={300}
               priority
             />
           </div>
