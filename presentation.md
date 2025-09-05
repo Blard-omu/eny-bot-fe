@@ -9,6 +9,14 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060719/chatbot/chatbot_md1_py19pn.png" 
+    alt="Chatbot design" 
+    style="width: 50%; height: auto;" 
+  />
+  </p>
+
 
 ## Slide 1: Title & Business Context
 
@@ -31,7 +39,7 @@
 
 <p align="center">
   <img 
-    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757062248/chatbot/mermaid-diagram_5_p6v6uc.svg" 
+    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757062593/chatbot/mermaid-diagram_2_e17jeb.svg" 
     alt="Chatbot design" 
     style="width: 100%; height: auto;" 
   />
