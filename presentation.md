@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img 
     src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060719/chatbot/chatbot_md1_py19pn.png" 
     alt="Chatbot design" 
