@@ -4,6 +4,26 @@ This Next.js frontend powers the user interface for ENY Consulting's Business An
 
 ---
 
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060720/chatbot/chat_lg_z9ku0b.png" alt="chtbot_ui"/>
+
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060719/chatbot/chatbot_md1_py19pn.png" 
+    alt="Chatbot" 
+    style="width: 50%; height: auto;" 
+  />
+  
+</p>
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1757060719/chatbot/chatbot_sm_dqwdba.png" 
+    alt="Chatbot" 
+    style="width: 50%; height: auto;" 
+  />
+</p>
+
+
+
 ## Overview
 
 The Frontend:
